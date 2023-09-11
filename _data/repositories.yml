@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sqzhou7
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sqzhou7/Versal-DFX-devkit
+  - sqzhou7/SkyNet-KV260
+  - sqzhou7/I2S-audio-pipeline
